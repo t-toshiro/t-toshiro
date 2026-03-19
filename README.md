@@ -2,8 +2,6 @@
 
 筑波大学情報メディア創成学類
 
-## 🤝 Let's Connect!
-
 <h2> 🔧 &nbsp;Some Tools I Have Used and Learned</h2>
 
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
